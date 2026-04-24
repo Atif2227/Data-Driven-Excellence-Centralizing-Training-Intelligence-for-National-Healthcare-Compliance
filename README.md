@@ -1,0 +1,2 @@
+# Data-Driven-Excellence-Centralizing-Training-Intelligence-for-National-Healthcare-Compliance
+Developed a centralized SSIS Data Warehouse to integrate LMS 365, Oracle ERP, and departmental data. This resolved OData volume constraints and enabled YoY trend analysis. The resulting Power BI dashboard delivered 30% more insights, tracking 258k+ enrollments and a 74% employee engagement rate across the corporation.
