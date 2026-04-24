@@ -3,17 +3,17 @@ Developed a centralized SSIS Data Warehouse to integrate LMS 365, Oracle ERP, an
 
 ---
 
-**Title**
-
-**Data-Driven Excellence: Centralizing Training Intelligence for National Healthcare Compliance.**
-
 ## 🔗 View Live Demo
 
 👉 **[View Power BI Dashboard](https://app.powerbi.com/)**
 
+---
+
 **Introduction**
 
 This project involved a comprehensive overhaul of the data infrastructure for the **Workforce Training Department** of a major government hospital corporation. Tasked with managing the training lifecycle for both healthcare professionals (Physicians, Nurses, Technicians) and non-healthcare staff (IT, HR, Safety), the department required a system capable of tracking mandatory and non-mandatory training across diverse platforms. The project successfully transitioned the organization from a fragmented legacy reporting model to a centralized, automated **Data Warehouse** environment, delivering a **30% increase in actionable insights**.
+
+---
 
 **Problem Statement**
 
@@ -23,6 +23,8 @@ The legacy data environment relied on direct **OData** fetches from LMS 365 and 
 - **Performance Latency:** Connecting to multiple live sources simultaneously caused extreme slowdowns in analytical software.
 - **Lack of Trend Visibility:** Due to the inability to load historical data alongside current data, year-over-year (YoY) comparative analysis was impossible without manually cross-referencing separate files.
 - **Siloed Reporting:** Sub-departmental data (Academic Affairs, E-Learning, Clinical/Non-Clinical) existed in isolation, preventing a unified corporate view.
+
+---
 
 **Solution Overview**
 
@@ -50,6 +52,8 @@ To optimize for Power BI performance, a **Star Schema** was implemented:
 
 - **Fact Table:** A central table containing transactional data, such as **Total Enrollments** (258,672) and **Completed Enrollments** (195,656).
 - **Dimension Tables:** Surrounding the fact table are descriptive attributes including **Employee Details** (Job Category, Nationality), **Date Hierarchy** (Year, Quarter, Month), **Course Details** (Type: ELearning, Classroom, Webinar), and **Departmental Metrics**.
+
+---
 
 **Visualization: Power BI Dashboard Suite**
 
@@ -102,6 +106,8 @@ The final dashboard provides a multi-layered view of corporate training health.
 - **Feature Engineering (SQL/Python):** Creation of complex measures like **Engagement Rate** (Employees Enrolled vs. Active Employees).
 - **Analytics Layer:** Power BI Desktop for modeling and Power BI Service for sharing.
 
+---
+
 **Results / ROI**
 
 - **Eliminated Data Latency:** Multi-year data now loads in seconds rather than minutes, or failing entirely.
@@ -109,6 +115,8 @@ The final dashboard provides a multi-layered view of corporate training health.
 - **Enhanced Compliance:** Real-time tracking of mandatory training for **7,782 trained employees** across the corporation.
 - **Data-Driven Partnerships:** Academic Affairs can now prove the value of their **MoUs** through clear internship-to-employment metrics.
 - **High Quality Standards:** Achieved an average E-Learning rating of **4.7/5** across over 100,000 completed enrollments.
+
+---
 
 **Tech Stack: The Data Engineering & Analytics Infrastructure**
 
