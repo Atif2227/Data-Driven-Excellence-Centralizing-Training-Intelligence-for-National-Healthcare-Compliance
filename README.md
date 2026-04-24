@@ -94,7 +94,7 @@ The final dashboard provides a multi-layered view of corporate training health.
 ---
 
 **End-to-End Architecture**
-![](Images/0011.jpg)
+![](Images/0011.png)
 
 **Tech Stack:** SSIS (ETL), SSMS (Data Warehouse), SQL (Transformation), Power BI (Visualization), Python (Advanced Analytics), Excel (Legacy Source Support).
 
