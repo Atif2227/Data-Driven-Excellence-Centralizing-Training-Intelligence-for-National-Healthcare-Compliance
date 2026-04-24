@@ -86,7 +86,6 @@ The final dashboard provides a multi-layered view of corporate training health.
 ![](Images/0004.jpg)
 ![](Images/0005.jpg)
 ![](Images/0006.jpg)
-![](Images/0007.jpg)
 ![](Images/0008.jpg)
 ![](Images/0009.jpg)
 ![](Images/0010.jpg)
