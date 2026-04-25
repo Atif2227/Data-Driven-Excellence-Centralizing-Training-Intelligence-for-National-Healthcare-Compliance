@@ -1,4 +1,11 @@
 # Data-Driven-Excellence-Centralizing-Training-Intelligence-for-National-Healthcare-Compliance
+---
+**Role:** Senior Healthcare Data Analyst, Consultant  
+**Domain:** Healthcare Analytics  
+**Objective:** The objective of this project is to centralize and automate the training intelligence infrastructure of a national healthcare corporation by transitioning from fragmented legacy reporting to a robust Extract, Transform, Load (ETL) architecture and a Star Schema data warehouse.
+
+---
+
 Developed a centralized SSIS Data Warehouse to integrate LMS 365, Oracle ERP, and departmental data. This resolved OData volume constraints and enabled YoY trend analysis. The resulting Power BI dashboard delivered 30% more insights, tracking 258k+ enrollments and a 74% employee engagement rate across the corporation.
 
 ---
@@ -145,3 +152,14 @@ To deliver this mega project, a robust and integrated technology stack was utili
 **Support & Documentation**
 
 - **Microsoft Excel**: Used as a secondary data source for sub-departmental shared folders and for initial data validation during the "Data Governance" phase.
+
+---
+
+## 👤 Consultant
+
+**Atif Noorul Hasan** <br />
+Healthcare Analytics Consultant <br />
+Business Intelligence | Data Analytics | Dashboard Design <br />
+
+🔗 Website – https://atifdata.com <br />
+✉️ Email – atif@atifdata.com
